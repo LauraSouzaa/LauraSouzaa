@@ -12,3 +12,5 @@ Meu nome é Laura Portella de Souza, tenho 17 anos, sou natural do Rio Grande do
 </p>
 
 ---
+
+## 📊 Estatísticas
