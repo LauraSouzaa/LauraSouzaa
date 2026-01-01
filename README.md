@@ -14,4 +14,5 @@ Meu nome é Laura Portella de Souza, tenho 17 anos, sou natural do Rio Grande do
 ---
 
 ### 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LauraSouzaa&show_icons=true&theme=tokyonight)
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LauraSouzaa&showicons=true&theme=tokyonight)
