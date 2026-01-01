@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá, meu nome é Laura!
 
-<!--
-**LauraSouzaa/LauraSouzaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedora Júnior`**
 
-Here are some ideas to get you started:
+Meu nome é Laura Portella de Souza, tenho 17 anos, sou natural do Rio Grande do Sul e atualmente estou cursando Ciência da Computação na faculdade ATITUS Educação. Sou apaixonada por tecnologia, neste momento, estou estudando a Linguagem de Programação Python e tenho interesse em seguir carreira na área de BackEnd.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-portella-de-souza-a61422361)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/laurapssz_)
+
+</p>
+
+---
