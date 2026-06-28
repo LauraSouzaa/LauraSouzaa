@@ -18,10 +18,66 @@ Atualmente sou estudante de Ciência da Computação na Atitus Educação. Tenho
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LauraSouzaa/LauraSouzaa/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LauraSouzaa/LauraSouzaa/output/pacman-contribution-graph.svg">
 </picture>
+```md
+---
 
-#
+## 📊 GitHub Stats
 
-###
 <p align="center">
-<i>"A tecnologia move o mundo"</i> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LauraSouzaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraSouzaa&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=LauraSouzaa&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Snake Contribution
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LauraSouzaa/LauraSouzaa/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
+
+---
+
+## 👾 Pacman Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LauraSouzaa/LauraSouzaa/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LauraSouzaa/LauraSouzaa/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/LauraSouzaa/LauraSouzaa/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/laura-portella?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:laurapdsz20@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LauraSouzaa&color=blueviolet&style=for-the-badge" alt="Profile views"/>
+</p>
+
+---
+
+<p align="center">
+  <i>"Technology moves the world."</i><br>
+  <b>— Steve Jobs</b>
+</p>
+```
