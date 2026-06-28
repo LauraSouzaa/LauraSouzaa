@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Olá! 👋 Eu sou Laura</h1>
 
-<!--
-**LauraSouzaa/LauraSouzaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+💻 Desenvolvedora Front-End <br>
+📍 Rio de Janeiro - RJ <br>
+🎯 Sempre aprendendo novas tecnologias
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode" />
+</p>
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 Sequência de Contribuições
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Redes Sociais
+
+<p>
+<a href="https://linkedin.com/in/...">LinkedIn</a> •
+<a href="https://instagram.com/...">Instagram</a> •
+<a href="https://portfolio.com">Portfólio</a>
+</p>
+
+---
+
+## 💡 Sobre mim
+
+- 🎓 Estudando Desenvolvimento Web
+- 💜 Apaixonada por Front-End
+- 📚 Aprendendo React
+- ☕ Café + código = ❤️
