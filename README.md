@@ -21,19 +21,9 @@ Atualmente sou estudante de Ciência da Computação na Atitus Educação. Tenho
 ```md
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LauraSouzaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraSouzaa&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=LauraSouzaa&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
