@@ -23,5 +23,5 @@ Atualmente sou estudante de Ciência da Computação na Atitus Educação. Tenho
 
 ###
 <p align="center">
-<i>"A tecnologia move o mundo?"</i> 
+<i>"A tecnologia move o mundo"</i> 
 </p>
