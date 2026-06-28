@@ -1,9 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anton&color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=[=++Welcome,+To+My+Profile!++=])](https://git.io/typing-svg)
-#
-<p align="center">
-  <img src=".github/workflows/duque github (1280 x 320 px).gif" />
-</p>
-</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anton&size=35&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!+👋;I'm+Laura.;Computer+Science+Student.;Backend+Developer.;Coffee+☕+%2B+Code+💻;Learning.+Building.+Growing.)](https://git.io/typing-svg)
 
 #
 <p align="left">
