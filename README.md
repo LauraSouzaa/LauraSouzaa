@@ -3,29 +3,8 @@
 #
 <p align="left">
 Atualmente sou estudante de Ciência da Computação na Atitus Educação. Tenho interesse na área de programação e gosto de aprender coisas novas para desenvolver minhas habilidades. Sou uma pessoa dedicada, responsável e comprometida com tudo o que faço. Busco oportunidades para adquirir experiência, crescer profissionalmente e evoluir também como pessoa.
-
-#
-<h3 align="left">My Stack:</h3> <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
   
 #
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LauraSouzaa/LauraSouzaa/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LauraSouzaa/LauraSouzaa/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LauraSouzaa/LauraSouzaa/output/pacman-contribution-graph.svg">
-</picture>
-```md
----
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LauraSouzaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraSouzaa&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
 ---
 
 ## 🐍 Snake Contribution
