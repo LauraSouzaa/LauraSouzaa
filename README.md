@@ -1,3 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7308EF&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7308EF&size=35&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Beatriz+Marques;I'm+21+years+old;I'm+from+Rio+De+Janeiro,+RJ;I+study+computer+system;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Anton&weight=700&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!;I'm+Laura.;Computer+Science+Student.;Backend+Developer.;Coffee+%2B+Code☕;Learning.+Building.+Growing.)](https://git.io/typing-svg)
 
 <p align="left">
