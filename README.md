@@ -31,16 +31,11 @@ Atualmente sou estudante de Ciência da Computação na Atitus Educação. Tenho
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/laura-portella?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/laura-portella" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="mailto:laurapdsz20@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Gmail"/>
   </a>
-</p>
-
-<p align="center">
-  <i>"Technology moves the world."</i><br>
-  <b>— Steve Jobs</b>
 </p>
