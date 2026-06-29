@@ -6,7 +6,7 @@
 Atualmente sou estudante de Ciência da Computação na Atitus Educação. Tenho interesse na área de programação e gosto de aprender coisas novas para desenvolver minhas habilidades. Sou uma pessoa dedicada, responsável e comprometida com tudo o que faço. Busco oportunidades para adquirir experiência, crescer profissionalmente e evoluir também como pessoa.
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LauraSouzaa&show_icons=true&count_private=true&hide_border=true&title_color=9b56d3&icon_color=9b56d3&text_color=c9d1d9&bg_color=0d1117" alt="Laura Souza github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LauraSouzaa&show_icons=true&count_private=true&hide_border=true&title_color=9b56d3&icon_color=9b56d3&text_color=c9d1d9&bg_color=0d1117" alt="Laura Souza' github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraSouzaa&layout=compact&hide_border=true&title_color=9b56d3&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
