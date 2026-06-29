@@ -13,6 +13,7 @@ Atualmente sou estudante de Ciência da Computação na Atitus Educação. Tenho
     <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/LauraSouzaa/LauraSouzaa/output/pacman-contribution-graph.svg">
   </picture>
 </p>
+--
 ## 🌐 Connect with Me
 
 <p align="center">
