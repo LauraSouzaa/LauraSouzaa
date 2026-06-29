@@ -2,7 +2,6 @@
 
 <p align="left">
 Atualmente sou estudante de Ciência da Computação na Atitus Educação. Tenho interesse na área de programação e gosto de aprender coisas novas para desenvolver minhas habilidades. Sou uma pessoa dedicada, responsável e comprometida com tudo o que faço. Busco oportunidades para adquirir experiência, crescer profissionalmente e evoluir também como pessoa.
-#
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LauraSouzaa/LauraSouzaa/output/pacman-contribution-graph-dark.svg">
