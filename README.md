@@ -6,7 +6,10 @@
 Atualmente sou estudante de Ciência da Computação na Atitus Educação. Tenho interesse na área de programação e gosto de aprender coisas novas para desenvolver minhas habilidades. Sou uma pessoa dedicada, responsável e comprometida com tudo o que faço. Busco oportunidades para adquirir experiência, crescer profissionalmente e evoluir também como pessoa.
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LauraSouzaa&show_icons=true&count_private=true&hide_border=true&title_color=9b56d3&icon_color=9b56d3&text_color=c9d1d9&bg_color=0d1117" alt="Laura Portella github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LauraSouzaa&show_icons=true&count_private=true&hide_border=true&title_color=9b56d3&icon_color=9b56d3&text_color=c9d1d9&bg_color=0d1117" alt="Laura Portella github stats" />
+
+#
+
 <h3 align="left">My Stack:</h3> <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
