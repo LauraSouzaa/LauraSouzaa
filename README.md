@@ -20,4 +20,3 @@ Atualmente sou estudante de Ciência da Computação na Atitus Educação. Tenho
   <i>"Technology moves the world."</i><br>
   <b>— Steve Jobs</b>
 </p>
-```
