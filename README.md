@@ -16,13 +16,6 @@ Atualmente sou estudante de Ciência da Computação na Atitus Educação. Tenho
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
   </a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LauraSouzaa&color=blueviolet&style=for-the-badge" alt="Profile views"/>
-</p>
-
 ---
 
 <p align="center">
