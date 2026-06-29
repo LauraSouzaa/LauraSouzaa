@@ -12,8 +12,6 @@ Atualmente sou estudante de Ciência da Computação na Atitus Educação. Tenho
 
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LauraSouzaa&bg_color=000000&color=9b56d3&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LauraSouzaa/LauraSouzaa/output/pacman-contribution-graph-dark.svg">
