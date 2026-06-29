@@ -30,11 +30,7 @@ Atualmente sou estudante de Ciência da Computação na Atitus Educação. Tenho
 </p>
 
 ## 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/laura-portella">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48">
-  </a>
-  <a href="mailto:laurapdsz20@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48">
-  </a>
-</p>
+<div align="center">
+  <a href="mailto:laurapdsz20@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blanck"></a>
+  <a href="https://www.linkedin.com/in/laura-portella/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blanck"></a>
+</div>
