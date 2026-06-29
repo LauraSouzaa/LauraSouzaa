@@ -8,9 +8,6 @@ Atualmente sou estudante de Ciência da Computação na Atitus Educação. Tenho
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LauraSouzaa&show_icons=true&count_private=true&hide_border=true&title_color=9b56d3&icon_color=9b56d3&text_color=c9d1d9&bg_color=0d1117" alt="Laura Portella github stats" /> 
   <div align="center"><br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </div>
 
