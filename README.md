@@ -15,9 +15,6 @@ Atualmente sou estudante de Ciência da Computação na Atitus Educação. Tenho
 </div>
 <br>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LauraSouzaa&show_icons=true&count_private=true&hide_border=true&title_color=9b56d3&icon_color=9b56d3&text_color=c9d1d9&bg_color=0d1117" alt="Laura Portella github stats" />
-
 #
 
 
