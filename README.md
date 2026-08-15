@@ -13,7 +13,7 @@ Atualmente sou estudante de Ciência da Computação na Atitus Educação. Tenho
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
 </div>
 <br>
-#
+
 <h3>🌐 Meu Portfólio: 
   https://laurasouzaa.github.io/
 </h3>
