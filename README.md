@@ -5,7 +5,9 @@
 <p align="left">
 Atualmente sou estudante de Ciência da Computação na Atitus Educação. Tenho interesse na área de Backend e gosto de aprender coisas novas para desenvolver minhas habilidades. Sou uma pessoa dedicada, responsável e comprometida com tudo o que faço. Busco oportunidades para adquirir experiência, crescer profissionalmente e evoluir também como pessoa.
 
-
+<h3>🌐 Meu Portfólio: 
+  https://laurasouzaa.github.io/
+</h3>
 #
 
 <h3 align="left">My Stack:</h3>
