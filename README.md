@@ -9,7 +9,7 @@ Atualmente sou estudante de Ciência da Computação na Atitus Educação. Tenho
 <h3 align="left">My Stack:</h3>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
+  <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
 </div>
 <br>
