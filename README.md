@@ -6,7 +6,7 @@
 Atualmente sou estudante de Ciência da Computação na Atitus Educação. Tenho interesse na área de Backend e gosto de aprender coisas novas para desenvolver minhas habilidades. Sou uma pessoa dedicada, responsável e comprometida com tudo o que faço. Busco oportunidades para adquirir experiência, crescer profissionalmente e evoluir também como pessoa.
 #
 
-<h3 align="left">My Stack:</h3>
+<h3 align="left">Stack:</h3>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
