@@ -17,9 +17,8 @@ Atualmente sou estudante de Ciência da Computação na Atitus Educação. Tenho
 </div>
 <br>
 
-<h3💻 Meu Portfólio: 
+💻 Meu Portfólio: 
   https://laurasouzaa.github.io/
-</h3>
 
 
 <p align="center">
